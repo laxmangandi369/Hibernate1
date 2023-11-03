@@ -22,6 +22,20 @@ public UserDetails(int userId, String name, String phoneNumber) {
 	Name = name;
 	this.phoneNumber = phoneNumber;
 }
+
+	public UserDetails(int userId, String name, String phoneNumber) {
+	super();
+	this.userId = userId;
+	Name = name;
+	this.phoneNumber = phoneNumber;
+}
+
+	public UserDetails(int userId, String name, String phoneNumber) {
+	super();
+	this.userId = userId;
+	Name = name;
+	this.phoneNumber = phoneNumber;
+}
 	
 	
 	
